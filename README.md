@@ -132,45 +132,6 @@ lesson content and exercises.
 
 <h2 id="structure">05. Repository Structure</h2>
 
-```text
-repository-name/
-│
-├── README.md
-│
-├── 01-introduction/
-│   ├── README.md
-│   ├── examples/
-│   └── exercises/
-│
-├── 02-core-concepts/
-│   ├── README.md
-│   ├── examples/
-│   └── exercises/
-│
-├── 03-intermediate-concepts/
-│   ├── README.md
-│   ├── examples/
-│   └── exercises/
-│
-├── 04-advanced-concepts/
-│   ├── README.md
-│   ├── examples/
-│   └── exercises/
-│
-├── projects/
-│   ├── beginner/
-│   ├── intermediate/
-│   └── advanced/
-│
-├── assessments/
-│
-├── resources/
-│
-├── LICENSE
-└── CONTRIBUTING.md
-```
-
----
 
 <!-- ====================================================== -->
 <!--                    PRACTICAL PROJECTS                  -->
