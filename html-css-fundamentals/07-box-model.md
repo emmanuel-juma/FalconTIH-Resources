@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/Level-Beginner-2ea44f?style=for-the-badge"/>
 </p>
 
-# 📦 The CSS Box Model
+#  The CSS Box Model
 
 Every HTML element is represented as a rectangular box. Understanding the CSS Box Model helps you control the size, spacing, and positioning of elements.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By the end of this lesson, you should be able to:
 
@@ -304,7 +304,7 @@ body {
 }
 ```
 
-## 📝 Practice Exercises
+##  Practice Exercises
 
 1. Create a box with a width of 300px and a height of 150px.
 2. Add 20px padding.
@@ -313,7 +313,7 @@ body {
 5. Apply `box-sizing: border-box`.
 6. Create three cards with different spacing values.
 
-## 🧠 Knowledge Check
+##  Knowledge Check
 
 1. What are the four parts of the CSS Box Model?
 2. What is the difference between padding and margin?
@@ -321,7 +321,7 @@ body {
 4. What is the default value of `box-sizing`?
 5. Why is `border-box` commonly used?
 
-## 🏁 Key Takeaways
+##  Key Takeaways
 
 - Every HTML element is treated as a box.
 - Padding creates space inside the border.
@@ -330,5 +330,5 @@ body {
 - `box-sizing: border-box` makes sizing easier to manage.
 
 <p align="center">
-  <b>Understand the box. Master the layout. 📦</b>
+  <b>Understand the box. Master the layout. </b>
 </p>

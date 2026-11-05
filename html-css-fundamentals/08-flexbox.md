@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge"/>
 </p>
 
-# 📐 CSS Flexbox
+#  CSS Flexbox
 
 Flexbox is a CSS layout system that makes it easier to arrange, align, and distribute elements inside a container.
 
 It is especially useful for navigation bars, card layouts, toolbars, and centering content.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By the end of this lesson, you should be able to:
 
@@ -307,7 +307,7 @@ body {
 | Great for navigation bars | Great for page layouts |
 | Useful for aligning items | Useful for complex structures |
 
-## 📝 Practice Exercises
+##  Practice Exercises
 
 1. Create a container with three boxes.
 2. Arrange the boxes in a row using Flexbox.
@@ -317,7 +317,7 @@ body {
 6. Make the boxes wrap on smaller screens.
 7. Build a navigation bar using Flexbox.
 
-## 🧠 Knowledge Check
+##  Knowledge Check
 
 1. What does `display: flex` do?
 2. What is the main axis?
@@ -325,7 +325,7 @@ body {
 4. What does `flex-wrap: wrap` do?
 5. Which property creates spacing between flex items?
 
-## 🏁 Key Takeaways
+##  Key Takeaways
 
 - Flexbox is a one-dimensional layout system.
 - The flex container controls the arrangement of its children.
@@ -334,5 +334,5 @@ body {
 - Flexbox makes alignment and responsive layouts easier.
 
 <p align="center">
-  <b>Think flexible. Design responsive. 📐</b>
+  <b>Think flexible. Design responsive. </b>
 </p>

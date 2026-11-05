@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/Level-Beginner-2ea44f?style=for-the-badge"/>
 </p>
 
-# 🎯 CSS Selectors
+#  CSS Selectors
 
 CSS selectors allow you to target specific HTML elements and apply styles to them.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By the end of this lesson, you should be able to:
 
@@ -270,7 +270,7 @@ The paragraph will be red because the ID selector has higher specificity than th
 | `:hover` | `button:hover` | Hover state |
 | `::before` | `p::before` | Generated content before |
 
-## 🧪 Practical Exercise: Navigation Bar
+##  Practical Exercise: Navigation Bar
 
 **HTML**
 
@@ -319,7 +319,7 @@ The paragraph will be red because the ID selector has higher specificity than th
 }
 ```
 
-## 📝 Practice Exercises
+##  Practice Exercises
 
 1. Create three headings and style them using an element selector.
 2. Create two cards using the same class.
@@ -328,7 +328,7 @@ The paragraph will be red because the ID selector has higher specificity than th
 5. Use `:first-child` to style the first item in a list.
 6. Create a `::before` pseudo-element that adds an icon or symbol before each heading.
 
-## 🧠 Knowledge Check
+##  Knowledge Check
 
 1. Which symbol is used for a class selector?
 2. Which symbol is used for an ID selector?
@@ -336,7 +336,7 @@ The paragraph will be red because the ID selector has higher specificity than th
 4. What does `:hover` do?
 5. Which has higher specificity: `.card` or `#card`?
 
-## 🏁 Key Takeaways
+##  Key Takeaways
 
 - Selectors identify which HTML elements receive styles.
 - Classes can be reused; IDs should be unique.

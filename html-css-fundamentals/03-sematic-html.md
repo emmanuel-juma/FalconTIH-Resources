@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:134e5e,100:71b280&height=160&section=header&text=SEMANTIC%20HTML&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Give%20Your%20Content%20Meaning&descSize=13" width="100%">
 </p>
 
-<h1 align="center">🏛️ MODULE 03: SEMANTIC HTML</h1>
+<h1 align="center"> MODULE 03: SEMANTIC HTML</h1>
 
-## 🌟 Introduction
+##  Introduction
 
 A good website is not just about how it looks. It is also about how well its content is organised and understood.
 
@@ -13,7 +13,7 @@ Semantic HTML allows developers to describe the purpose of different parts of a 
 
 Instead of using generic containers everywhere, semantic elements communicate what each section represents.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By the end of this module, you should be able to:
 
@@ -25,7 +25,7 @@ By the end of this module, you should be able to:
 
 ---
 
-## 📖 1. What is Semantic HTML?
+##  1. What is Semantic HTML?
 
 Semantic HTML means using HTML elements according to their meaning and purpose.
 
@@ -51,7 +51,7 @@ The `<header>` element communicates that the content is introductory or belongs 
 
 ---
 
-## 📖 2. Common Semantic Elements
+##  2. Common Semantic Elements
 
 | Element | Purpose |
 |---|---|
@@ -67,7 +67,7 @@ The `<header>` element communicates that the content is introductory or belongs 
 
 ---
 
-## 📖 3. Understanding Header
+##  3. Understanding Header
 
 The `<header>` element contains introductory information.
 
@@ -82,7 +82,7 @@ A page can have a header, and individual sections or articles can also have thei
 
 ---
 
-## 📖 4. Understanding Navigation
+## 4. Understanding Navigation
 
 The `<nav>` element contains important navigation links.
 
@@ -99,7 +99,7 @@ Navigation helps users move between pages or sections.
 
 ---
 
-## 📖 5. Understanding Main
+##  5. Understanding Main
 
 The `<main>` element contains the primary content of a page.
 
@@ -117,7 +117,7 @@ A document should normally have one visible `<main>` element.
 
 ---
 
-## 📖 6. Understanding Section
+##  6. Understanding Section
 
 A `<section>` groups related content.
 
@@ -135,7 +135,7 @@ Use a section when the content forms a meaningful thematic group.
 
 ---
 
-## 📖 7. Understanding Article
+##  7. Understanding Article
 
 An `<article>` represents independent content that can make sense on its own.
 
@@ -158,7 +158,7 @@ Examples include:
 
 ---
 
-## 📖 8. Understanding Aside
+##  8. Understanding Aside
 
 The `<aside>` element contains related or supporting information.
 
@@ -176,7 +176,7 @@ It can be used for tips, related links or supplementary information.
 
 ---
 
-## 📖 9. Understanding Footer
+##  9. Understanding Footer
 
 The `<footer>` element contains information about a page or section.
 
@@ -189,7 +189,7 @@ The `<footer>` element contains information about a page or section.
 
 ---
 
-## 💻 10. Complete Semantic HTML Example
+##  10. Complete Semantic HTML Example
 
 ```html
 <!DOCTYPE html>
@@ -260,7 +260,7 @@ Semantic HTML improves:
 
 Semantic HTML is one part of accessibility. You should also use good colour contrast, keyboard-friendly controls, meaningful link text and form labels.
 
-## 💻 Practical Activity
+##  Practical Activity
 
 Create a college homepage using:
 
@@ -274,7 +274,7 @@ Create a college homepage using:
 
 Give each major section a meaningful heading.
 
-## 🧪 Knowledge Check
+##  Knowledge Check
 
 1. What is semantic HTML?
 2. What is the purpose of `<main>`?
@@ -282,12 +282,12 @@ Give each major section a meaningful heading.
 4. What is the difference between `<section>` and `<article>`?
 5. Why is semantic HTML important for accessibility?
 
-## 🏆 Module Challenge
+##  Module Challenge
 
 Build a complete semantic blog page with at least three articles.
 
-## ✅ Key Takeaways
+##  Key Takeaways
 
 Semantic HTML makes websites more meaningful, organised and accessible.
 
-<p align="center"><strong>🌟 Write meaningful code, not just working code!</strong></p>
+<p align="center"><strong> Write meaningful code, not just working code!</strong></p>

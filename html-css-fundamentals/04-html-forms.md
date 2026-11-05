@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:42275a,100:734b6d&height=160&section=header&text=HTML%20FORMS&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Collect%20Information%20the%20Right%20Way&descSize=13" width="100%">
 </p>
 
-<h1 align="center">📝 MODULE 04: HTML FORMS</h1>
+<h1 align="center"> MODULE 04: HTML FORMS</h1>
 
-## 🌟 Introduction
+##  Introduction
 
 Imagine creating a website where users can register, log in, send messages or search for information.
 
@@ -29,7 +29,7 @@ By the end of this module, you should be able to:
 
 ---
 
-## 📖 1. What is an HTML Form?
+##  1. What is an HTML Form?
 
 An HTML form is a section of a web page that contains controls for collecting information.
 
@@ -56,7 +56,7 @@ The server endpoint must actually exist for the form to submit successfully.
 
 ---
 
-## 📖 2. Text Input
+##  2. Text Input
 
 The text input allows users to enter ordinary text.
 
@@ -72,7 +72,7 @@ The text input allows users to enter ordinary text.
 
 ---
 
-## 📖 3. Email Input
+## 3. Email Input
 
 The email input is designed for email addresses.
 
@@ -91,7 +91,7 @@ The browser can check whether the entered value resembles an email address.
 
 ---
 
-## 📖 4. Password Input
+##  4. Password Input
 
 Password inputs hide the characters entered by the user.
 
@@ -111,7 +111,7 @@ Remember: hiding characters in the browser does not encrypt the password. Secure
 
 ---
 
-## 📖 5. Other Common Input Types
+##  5. Other Common Input Types
 
 ```html
 <input type="number" name="age">
@@ -133,7 +133,7 @@ Each input type is designed for a particular kind of information.
 
 ---
 
-## 📖 6. Radio Buttons
+##  6. Radio Buttons
 
 Radio buttons allow users to select one option from a group.
 
@@ -157,7 +157,7 @@ For real forms, ensure the question and available options are appropriate for yo
 
 ---
 
-## 📖 7. Checkboxes
+##  7. Checkboxes
 
 Checkboxes allow users to select one or more options.
 
@@ -184,7 +184,7 @@ Unlike radio buttons, multiple checkboxes can be selected.
 
 ---
 
-## 📖 8. Dropdown Menus
+##  8. Dropdown Menus
 
 Use `<select>` and `<option>` to create a dropdown menu.
 
@@ -206,7 +206,7 @@ Use `<select>` and `<option>` to create a dropdown menu.
 
 ---
 
-## 📖 9. Textarea
+##  9. Textarea
 
 The `<textarea>` element allows users to enter longer messages.
 
@@ -223,7 +223,7 @@ The `<textarea>` element allows users to enter longer messages.
 
 ---
 
-## 📖 10. Buttons
+##  10. Buttons
 
 HTML provides different button types.
 
@@ -241,7 +241,7 @@ HTML provides different button types.
 
 ---
 
-## 📖 11. Form Validation
+##  11. Form Validation
 
 Validation helps ensure users provide information in the expected format.
 
@@ -290,7 +290,7 @@ Client-side validation improves usability but does not replace server-side valid
 
 ---
 
-## 💻 12. Complete Registration Form
+##  12. Complete Registration Form
 
 ```html
 <!DOCTYPE html>
@@ -369,7 +369,7 @@ Client-side validation improves usability but does not replace server-side valid
 
 This is a learning example. It does not store registrations or create accounts.
 
-## 💻 Practical Activity
+##  Practical Activity
 
 Create a student registration form containing:
 
@@ -383,7 +383,7 @@ Create a student registration form containing:
 - Terms and conditions checkbox.
 - Submit button.
 
-## 🧪 Knowledge Check
+##  Knowledge Check
 
 1. What is the purpose of an HTML form?
 2. What does the `action` attribute do?
@@ -392,13 +392,13 @@ Create a student registration form containing:
 5. What does the `required` attribute do?
 6. Why should form fields have labels?
 
-## 🏆 Module Challenge
+##  Module Challenge
 
 Build a complete online course registration form.
 
 Make sure every input has an appropriate label and the form is easy to understand.
 
-## ✅ Key Takeaways
+##  Key Takeaways
 
 - Forms collect information from users.
 - Inputs come in different types.
@@ -406,4 +406,4 @@ Make sure every input has an appropriate label and the form is easy to understan
 - Validation helps prevent incomplete or incorrectly formatted entries.
 - Real applications need server-side processing and validation.
 
-<p align="center"><strong>🎉 You now know how to collect information using HTML!</strong></p>
+<p align="center"><strong> You now know how to collect information using HTML!</strong></p>

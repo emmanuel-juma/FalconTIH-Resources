@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Level-Beginner-2ea44f?style=for-the-badge"/>
 </p>
 
-# 🎨 Introduction to CSS
+# Introduction to CSS
 
 Welcome to CSS! In this lesson, you will learn how to style HTML pages and transform plain documents into attractive, professional websites.
 
@@ -272,7 +272,7 @@ body {
 }
 ```
 
-## 📝 Practice Exercises
+##  Practice Exercises
 
 1. Create an HTML page with a heading and three paragraphs.
 2. Connect an external CSS file.
@@ -280,7 +280,7 @@ body {
 4. Give the heading a different font, color, and size.
 5. Create a profile card with a border radius and shadow.
 
-## 🧠 Knowledge Check
+##  Knowledge Check
 
 1. What does CSS stand for?
 2. What is the purpose of a CSS selector?
@@ -288,7 +288,7 @@ body {
 4. What is the difference between `color` and `background-color`?
 5. What does `font-size` control?
 
-## 🏁 Key Takeaways
+##  Key Takeaways
 
 - CSS controls the appearance of HTML pages.
 - CSS rules consist of selectors and declarations.
@@ -296,5 +296,5 @@ body {
 - Colors, backgrounds, typography, and spacing help create attractive websites.
 
 <p align="center">
-  <b>Keep styling. Keep creating. Keep learning! 🚀</b>
+  <b>Keep styling. Keep creating. Keep learning! </b>
 </p>

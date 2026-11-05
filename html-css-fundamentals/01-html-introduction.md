@@ -9,13 +9,13 @@
   <img src="https://img.shields.io/badge/HTML5-First%20Steps-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 
-## 🌟 Welcome!
+##  Welcome!
 
 Every website you visit has a structure. That structure is created using HTML.
 
 In this module, you will discover what HTML is, how it works and how to create your very first web page.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By the end of this module, you should be able to:
 
@@ -28,7 +28,7 @@ By the end of this module, you should be able to:
 
 ---
 
-## 📖 1. What is HTML?
+##  1. What is HTML?
 
 HTML stands for **HyperText Markup Language**.
 
@@ -61,7 +61,7 @@ Together, these technologies make modern websites possible.
 
 ---
 
-## 📖 2. How Does HTML Work?
+##  2. How Does HTML Work?
 
 HTML works through elements written using tags.
 
@@ -108,7 +108,7 @@ Examples:
 
 ---
 
-## 📖 4. Your First HTML Document
+##  4. Your First HTML Document
 
 Create a new file named:
 
@@ -140,7 +140,7 @@ Write the following code:
 </html>
 ```
 
-### 🔍 Understanding the Code
+###  Understanding the Code
 
 | Element | Explanation |
 |---|---|
@@ -154,7 +154,7 @@ Write the following code:
 
 ---
 
-## 📖 5. HTML Attributes
+##  5. HTML Attributes
 
 Attributes provide additional information about HTML elements.
 
@@ -188,7 +188,7 @@ Common attributes include:
 
 ---
 
-## 📖 6. HTML Comments
+##  6. HTML Comments
 
 Comments are notes written inside HTML code.
 
@@ -204,7 +204,7 @@ Comments help developers understand and organise their code.
 
 ---
 
-## 💻 7. Practical Activity
+##  7. Practical Activity
 
 Create a personal introduction page.
 
@@ -217,7 +217,7 @@ Your page should contain:
 5. A link to a website you enjoy.
 6. An image with appropriate alternative text.
 
-## 🧪 Knowledge Check
+##  Knowledge Check
 
 1. What does HTML stand for?
 2. Is HTML a programming language?
@@ -226,13 +226,13 @@ Your page should contain:
 5. What is the purpose of an HTML attribute?
 6. What does `<!DOCTYPE html>` do?
 
-## 🏆 Module Challenge
+##  Module Challenge
 
 Build a simple personal profile page using only HTML.
 
 Do not use CSS yet. Focus on writing clean and organised HTML.
 
-## ✅ Key Takeaways
+##  Key Takeaways
 
 - HTML provides the structure of web pages.
 - HTML uses elements and attributes.
@@ -242,7 +242,7 @@ Do not use CSS yet. Focus on writing clean and organised HTML.
 ---
 
 <p align="center">
-  <strong>🎉 Congratulations! You have created your first HTML document.</strong>
+  <strong> Congratulations! You have created your first HTML document.</strong>
 </p>
 
-<p align="center">NEXT: HTML ELEMENTS ➡️</p>
+<p align="center">NEXT: HTML ELEMENTS </p>

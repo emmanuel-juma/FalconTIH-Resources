@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge"/>
 </p>
 
-# 🧩 CSS Grid
+#  CSS Grid
 
 CSS Grid is a powerful layout system used to arrange webpage elements in rows and columns.
 
 Unlike Flexbox, which is primarily one-dimensional, Grid is designed for two-dimensional layouts.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By the end of this lesson, you should be able to:
 
@@ -320,7 +320,7 @@ body {
 
 Both systems can be used together in the same project.
 
-## 📝 Practice Exercises
+##  Practice Exercises
 
 1. Create a grid with three equal columns.
 2. Add six cards to the grid.
@@ -329,7 +329,7 @@ Both systems can be used together in the same project.
 5. Create a responsive gallery using `auto-fit` and `minmax()`.
 6. Build a simple webpage layout with a header, sidebar, main section, and footer.
 
-## 🧠 Knowledge Check
+##  Knowledge Check
 
 1. What does `display: grid` do?
 2. What is the purpose of `grid-template-columns`?
@@ -337,7 +337,7 @@ Both systems can be used together in the same project.
 4. What does `grid-column: span 2` do?
 5. How does CSS Grid differ from Flexbox?
 
-## 🏁 Key Takeaways
+##  Key Takeaways
 
 - CSS Grid is a two-dimensional layout system.
 - Grid containers organize items into rows and columns.
@@ -346,5 +346,5 @@ Both systems can be used together in the same project.
 - `repeat()`, `minmax()`, and `auto-fit` help create flexible layouts.
 
 <p align="center">
-  <b>Think in rows. Think in columns. Build amazing layouts! 🧩</b>
+  <b>Think in rows. Think in columns. Build amazing layouts! </b>
 </p>

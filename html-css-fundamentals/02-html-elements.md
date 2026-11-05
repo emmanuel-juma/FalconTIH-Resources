@@ -26,7 +26,7 @@ By the end of this module, you should be able to:
 
 ---
 
-## 📖 1. HTML Headings
+##  1. HTML Headings
 
 HTML provides six heading levels.
 
@@ -49,7 +49,7 @@ A page should generally have one clear main heading, followed by meaningful subh
 
 ---
 
-## 📖 2. HTML Paragraphs
+##  2. HTML Paragraphs
 
 The `<p>` element creates paragraphs.
 
@@ -67,7 +67,7 @@ Each paragraph is displayed as a separate block of text.
 
 ---
 
-## 📖 3. Text Formatting Elements
+##  3. Text Formatting Elements
 
 HTML provides elements for giving text meaning and emphasis.
 
@@ -100,7 +100,7 @@ Example:
 
 ---
 
-## 📖 4. HTML Links
+##  4. HTML Links
 
 Links allow users to navigate between pages and websites.
 
@@ -140,7 +140,7 @@ Use the `<a>` element.
 
 ---
 
-## 📖 5. HTML Images
+##  5. HTML Images
 
 Images make websites more attractive and informative.
 
@@ -167,7 +167,7 @@ Always provide useful alternative text for informative images.
 
 ---
 
-## 📖 6. HTML Lists
+##  6. HTML Lists
 
 HTML supports three common types of lists.
 
@@ -214,7 +214,7 @@ An ordered list uses numbers by default.
 
 ---
 
-## 📖 7. Line Breaks and Horizontal Rules
+##  7. Line Breaks and Horizontal Rules
 
 ### Line Break
 
@@ -238,7 +238,7 @@ Use these elements where their meaning fits. Use CSS for general spacing and vis
 
 ---
 
-## 📖 8. Div and Span
+##  8. Div and Span
 
 ### The Div Element
 
@@ -266,7 +266,7 @@ These elements are useful when you need a container but no more meaningful seman
 
 ---
 
-## 💻 Practical Activity
+##  Practical Activity
 
 Create a page called `my-interests.html`.
 
@@ -281,7 +281,7 @@ Include:
 - An unordered list.
 - Text using `<strong>` and `<em>`.
 
-## 🧪 Knowledge Check
+##  Knowledge Check
 
 1. How many heading levels does HTML provide?
 2. Which element creates a hyperlink?
@@ -290,11 +290,11 @@ Include:
 5. What is the difference between `<div>` and `<span>`?
 6. Which element creates a horizontal line?
 
-## 🏆 Module Challenge
+##  Module Challenge
 
 Build a personal portfolio introduction page using all the elements you have learned.
 
-## ✅ Key Takeaways
+##  Key Takeaways
 
 - HTML elements represent different types of content.
 - Headings organise information.
@@ -303,4 +303,4 @@ Build a personal portfolio introduction page using all the elements you have lea
 - Lists organise related information.
 - Div and span provide generic containers.
 
-<p align="center"><strong>🔥 Keep building. Keep experimenting.</strong></p>
+<p align="center"><strong> Keep building. Keep experimenting.</strong></p>
